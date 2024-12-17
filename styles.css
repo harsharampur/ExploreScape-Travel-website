@@ -104,7 +104,7 @@ nav:hover > a:not(:hover) {
 .title h1 {
   font-size: 15rem;
   font-weight: 800;
-  letter-spacing: 50px;
+  letter-spacing: 10px;
   text-transform: uppercase;
   color: white;
   text-align: center;
